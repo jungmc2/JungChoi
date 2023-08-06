@@ -4,7 +4,8 @@ A High Schooler's Guide to Choosing a College
 ## Purpose  
 This application was created to assist high schooler seniors to decide on which college they would like to attend. Using this application, high school seniors can see different aspects of universities such as what research topics they specialize in, how many publications they've put out, and the number of faculty. 
 
-## Demo
+## Demo  
+https://mediaspace.illinois.edu/media/t/1_0x2bjtav
 
 ## Installation
 
