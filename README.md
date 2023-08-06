@@ -19,11 +19,11 @@ https://mediaspace.illinois.edu/media/t/1_0x2bjtav
 
 The application consists of 6 widgets. Below are descriptions of each widget:  
 **Research Interests by University**: The user will select a university from the dropdown menu and the app will output the top ten keywords associated with faculty affiliated with the selected university along with the number of times it occurs among the faculty members  
-**Publications Filtered by Research Interes**: The user will select a keyword from the dropdown menu and the app will output a table containing all of the publications associated with the keyword along with the faculty member and university that are attached to the publication  
+**Publications Filtered by Research Interes**: The user will select a keyword from the dropdown menu and the app will create a view  containing all of the publications associated with the keyword along with the faculty member and university that are attached to the publication. Then the application will output the table for the user. 
 **Keyword Frequency By University**: The dropdown used above will also output a pie chart showing the percentage that each university occupies for the kwyword  
 **KRC Score for Keyword by University**: The user will select a keyword from the dropdown menu and the app will output a bar chart containing the keyword-relevant citation scores for each university for the selected keyword 
 **Number of Publications Over the Years**: The user will select a university and the app will output a line chart showing the number of publications for that university between 2000 and 2020  
-**University Characteristics**: The user will select a university and the app will output a table containing characteristics of that university.  
+**University Characteristics**: The user will select a university and the app will create a view containing different attributes of that university and finally output the table. 
 
 ## Design 
 The application consists of 6 widgets that are organized vertically one on top of the other in order for the user to explore the widgets sequentially
