@@ -26,10 +26,10 @@ The application consists of 6 widgets. Below are descriptions of each widget:
 **University Characteristics**: The user will select a university and the app will create a view containing different attributes of that university and finally output the table. 
 
 ## Design 
-The application consists of 6 widgets that are organized vertically one on top of the other in order for the user to explore the widgets sequentially
+The application consists of 6 widgets that are organized vertically one on top of the other in order for the user to explore the widgets sequentially. 
 
 ## Implementation
-The application was created using plotly.dash and all data manipulation was done using the Pandas library in Python.  
+The application was created using plotly.dash and all data manipulation was done using the Pandas library in Python. This application utilizes tables in the academicworld database from mysql, mongodb and neo4j. 
 
 ## Database Techniques
 1. An index was created in the mongodb_utils.py file on the name column for the keywords table in order to speed up the query considering the keyword name is used as a filter
